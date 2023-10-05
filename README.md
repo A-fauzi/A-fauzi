@@ -3,7 +3,7 @@
 I'm a passionate Android developer, deeply in love with the world of Kotlin, and constantly striving to make better Android apps. 🚀
 
 🔧 Experience & Skills:
-- 💼 Currently working as a [Your Job Title] at [Your Company/Project].
+- 💼 Currently working as a Trainer Android Development.
 - 🌟 Proficient in Android development using Kotlin.
 - 📱 Experienced in crafting intuitive and user-friendly mobile apps.
 - 🚀 Actively learning and keeping up with the latest in the Android ecosystem.
