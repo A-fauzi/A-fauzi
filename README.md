@@ -9,9 +9,9 @@ I'm a passionate Android developer, deeply in love with the world of Kotlin, and
 - 🚀 Actively learning and keeping up with the latest in the Android ecosystem.
 
 📫 How to reach me:
-- 📧 Email: [Your Email Address]
-- 🐦 Twitter: [@YourTwitterHandle]
-- 📖 LinkedIn: [Your LinkedIn Profile]
+- 📧 Email: akhmadfauzi1997@gmail.com
+- 🐦 Twitter: @ziaxyzkt
+- 📖 LinkedIn: afauzi97
 
 If you're interested in exciting Android projects or collaborations, don't hesitate to get in touch. I'm always open to discussions and sharing knowledge!
 
